@@ -5,7 +5,7 @@
 
 - Retold Ecosystem
 
-  - [Fable](/fable/fable/)
-  - [Fable-Log](/fable/fable-log/)
-  - [Fable-ServiceProviderBase](/fable/fable-serviceproviderbase/)
-  - [Fable-Settings](/fable/fable-settings/)
+  - [Fable](https://stevenvelozo.github.io/fable/)
+  - [Fable-Log](https://stevenvelozo.github.io/fable-log/)
+  - [Fable-ServiceProviderBase](https://stevenvelozo.github.io/fable-serviceproviderbase/)
+  - [Fable-Settings](https://stevenvelozo.github.io/fable-settings/)
