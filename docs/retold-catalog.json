@@ -1,7 +1,7 @@
 {
-	"Generated": "2026-05-22T05:38:18.813Z",
+	"Generated": "2026-05-26T18:18:36.129Z",
 	"Mode": "module",
-	"GitHubOrg": "stevenvelozo",
+	"GitHubOrg": "fable-retold",
 	"DefaultBranch": "master",
 	"Module": {
 		"Name": "fable-log-logger-bunyan",
@@ -29,19 +29,19 @@
 				"Children": [
 					{
 						"Title": "Fable",
-						"Path": "fable/fable/README.md"
+						"Path": "https://fable-retold.github.io/fable/README.md"
 					},
 					{
 						"Title": "Fable-Log",
-						"Path": "fable/fable-log/README.md"
+						"Path": "https://fable-retold.github.io/fable-log/README.md"
 					},
 					{
 						"Title": "Fable-ServiceProviderBase",
-						"Path": "fable/fable-serviceproviderbase/README.md"
+						"Path": "https://fable-retold.github.io/fable-serviceproviderbase/README.md"
 					},
 					{
 						"Title": "Fable-Settings",
-						"Path": "fable/fable-settings/README.md"
+						"Path": "https://fable-retold.github.io/fable-settings/README.md"
 					}
 				]
 			}
