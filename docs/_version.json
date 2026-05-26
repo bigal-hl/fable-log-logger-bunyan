@@ -2,6 +2,6 @@
 	"Name": "fable-log-logger-bunyan",
 	"Version": "1.0.5",
 	"Description": "Bunyan logger for fable-log.",
-	"GeneratedAt": "2026-05-26T18:18:36.295Z",
-	"GitCommit": "7ab0083"
+	"GeneratedAt": "2026-05-26T21:12:22.233Z",
+	"GitCommit": "b979c8d"
 }
