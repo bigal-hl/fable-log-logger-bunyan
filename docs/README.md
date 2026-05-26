@@ -101,5 +101,5 @@ _Fable.log.info('Request handled:', { userId: 42 });
 ## Learn More
 
 - [API Reference](api.md) -- Class details, method signatures, and Bunyan field mapping
-- [Fable-Log](https://stevenvelozo.github.io/fable-log/) -- The parent logging framework
-- [Fable](https://stevenvelozo.github.io/fable/) -- The core ecosystem
+- [Fable-Log](https://fable-retold.github.io/fable-log/) -- The parent logging framework
+- [Fable](https://fable-retold.github.io/fable/) -- The core ecosystem

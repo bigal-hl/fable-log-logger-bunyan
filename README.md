@@ -1,6 +1,6 @@
 # Fable Log Logger Bunyan
 
-> **[&#9654; Read the Fable-Log-Logger-Bunyan Documentation](https://stevenvelozo.github.io/fable-log-logger-bunyan/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Fable-Log-Logger-Bunyan Documentation](https://fable-retold.github.io/fable-log-logger-bunyan/)** &mdash; interactive docs with the full API reference.
 
 A [Bunyan](https://github.com/trentm/node-bunyan) log provider for fable-log. Outputs structured JSON logs through the standard fable logging interface, supporting all six log levels and custom stream configurations.
 
@@ -129,9 +129,9 @@ All methods accept a log message string and an optional context object:
 
 Fable Log Logger Bunyan is a logging provider in the Fable ecosystem:
 
-- [fable-log](https://github.com/stevenvelozo/fable-log) - Logging framework with pluggable providers
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
-- [fable-serviceproviderbase](https://github.com/stevenvelozo/fable-serviceproviderbase) - Service provider base class
+- [fable-log](https://github.com/fable-retold/fable-log) - Logging framework with pluggable providers
+- [fable](https://github.com/fable-retold/fable) - Application services framework
+- [fable-serviceproviderbase](https://github.com/fable-retold/fable-serviceproviderbase) - Service provider base class
 
 ## Testing
 
@@ -149,8 +149,8 @@ npm run coverage
 
 ## Related Packages
 
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
-- [fable-log](https://github.com/stevenvelozo/fable-log) - Logging services
+- [fable](https://github.com/fable-retold/fable) - Application services framework
+- [fable-log](https://github.com/fable-retold/fable-log) - Logging services
 
 ## License
 
