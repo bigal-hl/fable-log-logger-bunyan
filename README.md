@@ -4,8 +4,7 @@
 
 A [Bunyan](https://github.com/trentm/node-bunyan) log provider for fable-log. Outputs structured JSON logs through the standard fable logging interface, supporting all six log levels and custom stream configurations.
 
-[![npm version](https://badge.fury.io/js/fable-log-logger-bunyan.svg)](https://badge.fury.io/js/fable-log-logger-bunyan)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[fable-log-logger-bunyan on npm](https://www.npmjs.com/package/fable-log-logger-bunyan) | [MIT License](LICENSE)
 
 ---
 
