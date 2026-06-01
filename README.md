@@ -1,6 +1,6 @@
 # Fable Log Logger Bunyan
 
-> **[&#9654; Read the Fable-Log-Logger-Bunyan Documentation](https://fable-retold.github.io/fable-log-logger-bunyan/)** &mdash; interactive docs with the full API reference.
+> **[Read the Fable-Log-Logger-Bunyan Documentation](https://fable-retold.github.io/fable-log-logger-bunyan/)** - interactive docs with the full API reference.
 
 A [Bunyan](https://github.com/trentm/node-bunyan) log provider for fable-log. Outputs structured JSON logs through the standard fable logging interface, supporting all six log levels and custom stream configurations.
 
